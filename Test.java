@@ -25,7 +25,7 @@ public class Test {
             System.out.println("Division result: " + res);
         } else {
             System.out.println("Error: Division by zero is not allowed.");
-        }
+    
     }
 
     // Main method
